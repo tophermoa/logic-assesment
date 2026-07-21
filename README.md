@@ -1,6 +1,6 @@
-# KD Tech Test - Unit Testing
+# KD Tech Test - Logic Assessment
 
-## Prasyarat
+## Syarat
 
 Pastikan sudah install **Node.js** dan **npm**.
 
